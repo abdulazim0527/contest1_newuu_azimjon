@@ -1,4 +1,5 @@
-from task1 import kwargsAcceptFunw
+from task1 import kwargsAcceptFun
+
 kwargsAcceptFun(ism0="Humoyun", yosh1=35, joy3="Uchtepa")
 kwargsAcceptFun()
 
