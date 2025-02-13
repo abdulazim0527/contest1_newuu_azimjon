@@ -7,3 +7,5 @@ def kwargsAcceptFun(**event3):
                 print(f"{a1}: {b1}") 
 
 #e.g.
+kwargsAcceptFun(ism0="Humoyun", yosh1=35, joy3="Uchtepa")
+kwargsAcceptFun()
